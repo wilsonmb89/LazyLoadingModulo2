@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Modulo2Pagina1Component } from './modulo2-pagina1/modulo2-pagina1.component';
-import { Modulo2Pagina2Component } from './modulo2-pagina2/modulo2-pagina2.component';
-import { Modulo2Pagina3Component } from './modulo2-pagina3/modulo2-pagina3.component';
+import { Modulo2Pagina1Component } from './components/modulo2-pagina1/modulo2-pagina1.component';
+import { Modulo2Pagina2Component } from './components/modulo2-pagina2/modulo2-pagina2.component';
+import { Modulo2Pagina3Component } from './components/modulo2-pagina3/modulo2-pagina3.component';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
